@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sat Sep  2 17:52:54 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : ParkAssist
+Top-level Entity Name : ParkAssist
+Family : MAX 10
+Total logic elements : 417
+    Total combinational functions : 417
+    Dedicated logic registers : 143
+Total registers : 143
+Total pins : 63
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
+UFM blocks : 0
+ADC blocks : 0
